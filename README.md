@@ -28,6 +28,6 @@
 
 ## ➤ Contact Me
 
-[![Linkedin URL](https://img.shields.io/twitter/url?color=3397d8&label=in/marcello-fadul-33462074&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/marcello-fadul-33462074/)](https://www.linkedin.com/in/marcello-fadul-33462074/)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=3397d8&label=in/marcello-fadul&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/marcello-fadul-33462074/)](https://www.linkedin.com/in/marcello-fadul-33462074/)
 
 </samp>
