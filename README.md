@@ -1,7 +1,7 @@
 <samp>
 <div align="center">
 
-## Hi! My name is Marcello Fadul and I am Full Stack Developer.
+## Hi! My name is Marcello Fadul and I am Senior Developer.
 
 </div>
 
@@ -19,10 +19,11 @@
 
 ## ➤ My stack of work and studies
 
-- [ ] Backend development using PHP / Node 
+- [ ] Backend development using PHP / Node
+- [ ] Microservices and messages queues
 - [ ] Frontend development using Bootstrap / Angular / React
-- [ ] Study more about AI and Data Science
-- [ ] Running in the marathon behind the code IBM
+- [ ] Study more about AI and GoLang 
+
 
 ---
 
