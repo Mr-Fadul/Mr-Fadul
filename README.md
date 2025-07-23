@@ -13,8 +13,13 @@
 
 ## I'm from Contagem - Minas Gerais, Brazil. <br>
 
-## I'm work with PHP and JavaScript since 2016
+## I'm work with Development since 2016
 
+## I have a bachelor's degree in information systems
+
+## Technical training in programming by SENAI
+
+## My mains leguages are Node and PHP, studying golang development.
 ---
 
 ## ➤ My stack of work and studies
